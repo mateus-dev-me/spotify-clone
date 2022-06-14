@@ -18,3 +18,4 @@ na udemy ministrado pelo instrutor Matheus Battisti. O objetivo geral do projeto
 - Responsividade
 - Tailwindcss
 - Semantica
+- Mobile first
